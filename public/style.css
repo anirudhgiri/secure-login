@@ -1,0 +1,64 @@
+*{
+    font-family: Poppins, sans-serif;
+}
+
+.login-div{
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    margin-top: 25vh;
+}
+
+.signup-div{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 25vh;
+}
+
+.login-div h3{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 164px;
+}
+
+.signup-div h3{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+.input-div{
+    margin-top: 20px;
+}
+
+.actions-div{
+    margin-top: 30px;
+}
+
+label{
+    margin-right: 15px;
+    margin-left: 25px;
+    display: inline-block;
+    width: 100px;
+}
+
+.signin-link{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.submit-button{
+    border: 0px;
+    background-color: rgb(0, 0, 0);
+}
+
+#wrong-info-div{
+    background-color: rgba(241, 13, 59, 0.808);
+}
+
+.wrong-info-text{
+    font-size: 16px;
+    color: white;
+    margin-left: 20px;
+}
